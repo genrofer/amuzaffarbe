@@ -1,11 +1,10 @@
+[![MasterHead](https://64.media.tumblr.com/9408291519a89f981f69ab76cf058197/dc51a2c736e708d9-61/s2048x3072/796a00133d96593746dbdebf63f9dd0e9bbfb012.png)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Muzaffar Abdusamatov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">Creative frontend developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://twitter.com/amuzaffarbe" target="blank"><img src="https://img.shields.io/twitter/follow/amuzaffarbe?logo=twitter&style=for-the-badge" alt="amuzaffarbe" /></a> </p>
+<p align="lefthttps://www.google.com/url?sa=i&url=https%3A%2F%2Fpixelz.cc%2Fimages%2F404-not-found-graffiti-uhd-4k-wallpaper%2F&psig=AOvVaw2K3TpxkRxeFU6xxxJXSE2p&ust=1636304626629000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDhwf6bhPQCFQAAAAAdAAAAABAD <a href="https://twitter.com/amuzaffarbe" target="blank"><img src="https://img.shields.io/twitter/follow/amuzaffarbe?logo=twitter&style=for-the-badge" alt="amuzaffarbe" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://t.me/genrofer1](https://t.me/genrofer1)
-
-- 💬 Ask me about **websites**
 
 - 📫 How to reach me **amuzaffarbe@gmail.com**
 
@@ -17,6 +16,8 @@
 <a href="https://linkedin.com/in/amuzaffarbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amuzaffarbe" height="30" width="40" /></a>
 <a href="https://fb.com/muzaffar_abdusamadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzaffar_abdusamadov" height="30" width="40" /></a>
 <a href="https://instagram.com/muzaffar_abdusamadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzaffar_abdusamadov" height="30" width="40" /></a>
+<a href="https://t.me/genrofer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="muzaffar_abdusamadov" height="30" width="40" /></a>
+<a href="https://tiktok.com/muzaffarabdusamatov" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102690_TIKTOK_LOGO_400.gif" alt="muzaffar_abdusamadov" height="40" width="44" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
