@@ -41,7 +41,7 @@
 <a href="https://brackets.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" alt="sass" width="40" height="40"/> </a>
 
 </p>
- 
+  
 
 
 <p>&nbsp;<img align="center" width="500"src="https://github-readme-stats.vercel.app/api?username=amuzaffarbe&show_icons=true&locale=en" alt="amuzaffarbe" /> </p>
