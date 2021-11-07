@@ -19,7 +19,7 @@
 <a href="https://t.me/genrofer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="muzaffar_abdusamadov" height="30" width="40" /></a>
 <a href="https://tiktok.com/muzaffarabdusamatov" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102690_TIKTOK_LOGO_400.gif" alt="muzaffar_abdusamadov" height="40" width="44" /></a>
 </p>
-
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
