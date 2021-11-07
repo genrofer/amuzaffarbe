@@ -18,7 +18,7 @@
 <a href="https://instagram.com/muzaffar_abdusamadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzaffar_abdusamadov" height="30" width="40" /></a>
 <a href="https://t.me/genrofer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="muzaffar_abdusamadov" height="30" width="40" /></a>
 <a href="https://tiktok.com/muzaffarabdusamatov" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102690_TIKTOK_LOGO_400.gif" alt="muzaffar_abdusamadov" height="40" width="44" /></a>
-</p>
+</p> 
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
