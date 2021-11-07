@@ -1,6 +1,10 @@
-![MasterHead](https://64.media.tumblr.com/9408291519a89f981f69ab76cf058197/dc51a2c736e708d9-61/s2048x3072/796a00133d96593746dbdebf63f9dd0e9bbfb012.png)
-<h1 align="center">I'm Muzaffar Abdusamatov</h1>
-<h3 align="center">Creative frontend developer from Uzbekistan</h3>
+<h1 align="center">"Oh... something is comforting :( " says uzbek creative frontend developer a.k.a Genrofer!</h1>
+
+<a href="https://youtu.be/Tt7bzxurJ1I">
+    <img src="https://64.media.tumblr.com/9408291519a89f981f69ab76cf058197/dc51a2c736e708d9-61/s2048x3072/796a00133d96593746dbdebf63f9dd0e9bbfb012.png" width="100%" alt="A banner that says Genemator - senior full stack developer... content creator and community organizer alongside a cartoon illustration of Geno Ferollo">
+</a>
+
+---
 
 <p align="lefthttps://www.google.com/url?sa=i&url=https%3A%2F%2Fpixelz.cc%2Fimages%2F404-not-found-graffiti-uhd-4k-wallpaper%2F&psig=AOvVaw2K3TpxkRxeFU6xxxJXSE2p&ust=1636304626629000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDhwf6bhPQCFQAAAAAdAAAAABAD <a href="https://twitter.com/amuzaffarbe" target="blank"><img src="https://img.shields.io/twitter/follow/amuzaffarbe?logo=twitter&style=for-the-badge" alt="amuzaffarbe" /></a> </p>
 
@@ -9,6 +13,8 @@
 - 📫 How to reach me **amuzaffarbe@gmail.com**
 
 - 📄 Know about my experiences [https://genrofer.uz](https://genrofer.uz)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +25,8 @@
 <a href="https://t.me/genrofer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="muzaffar_abdusamadov" height="30" width="40" /></a>
 <a href="https://tiktok.com/muzaffarabdusamatov" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102690_TIKTOK_LOGO_400.gif" alt="muzaffar_abdusamadov" height="40" width="44" /></a>
 </p> 
+
+---
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -42,7 +50,7 @@
 
 </p>
   
-  
+<hr>
 
 <p>&nbsp;<img align="center" width="500"src="https://github-readme-stats.vercel.app/api?username=amuzaffarbe&show_icons=true&locale=en" alt="amuzaffarbe" /> </p>
 <p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=amuzaffarbe&" alt="amuzaffarbe" /> </p>
