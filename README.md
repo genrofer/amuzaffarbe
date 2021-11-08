@@ -3,7 +3,7 @@
 <a href="https://youtu.be/Tt7bzxurJ1I">
     <img src="https://64.media.tumblr.com/9408291519a89f981f69ab76cf058197/dc51a2c736e708d9-61/s2048x3072/796a00133d96593746dbdebf63f9dd0e9bbfb012.png" width="100%" alt="A banner that says Genemator - senior full stack developer... content creator and community organizer alongside a cartoon illustration of Geno Ferollo">
 </a>
-
+ 
 ---
 
 <p align="lefthttps://www.google.com/url?sa=i&url=https%3A%2F%2Fpixelz.cc%2Fimages%2F404-not-found-graffiti-uhd-4k-wallpaper%2F&psig=AOvVaw2K3TpxkRxeFU6xxxJXSE2p&ust=1636304626629000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDhwf6bhPQCFQAAAAAdAAAAABAD <a href="https://twitter.com/amuzaffarbe" target="blank"><img src="https://img.shields.io/twitter/follow/amuzaffarbe?logo=twitter&style=for-the-badge" alt="amuzaffarbe" /></a> </p>
