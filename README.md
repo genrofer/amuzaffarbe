@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amuzaffarbe@gmail.com**
 
-- 📄 Know about my experiences [https://genrofer.ga](www.genrofer.ga)
+- 📄 Know about my experiences [www.genrofer.ga](https://genrofer.ga)
 
 ---
 
