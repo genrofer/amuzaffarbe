@@ -1,6 +1,6 @@
-<h1 align="center">"Oh... something is comforting :( " says uzbek creative frontend developer a.k.a Genrofer!</h1>
+<h1 align="center">"Oh... something is comforting :( " says uzbek creative web developer a.k.a Genrofer!</h1>
  
-<a href="https://youtu.be/Tt7bzxurJ1I">
+<a href="https://genrofer.ga" target="_blank">
     <img src="https://64.media.tumblr.com/9408291519a89f981f69ab76cf058197/dc51a2c736e708d9-61/s2048x3072/796a00133d96593746dbdebf63f9dd0e9bbfb012.png" width="100%" alt="A banner that says Genemator - senior full stack developer... content creator and community organizer alongside a cartoon illustration of Geno Ferollo">
 </a>
       
