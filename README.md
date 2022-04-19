@@ -1,7 +1,7 @@
 <h1 align="center">"Oh... something is comforting :( " says uzbek creative web developer a.k.a Genrofer!</h1>
  
 <a href="https://genrofer.ga" target="_blank">
-    <img src="https://64.media.tumblr.com/9408291519a89f981f69ab76cf058197/dc51a2c736e708d9-61/s2048x3072/796a00133d96593746dbdebf63f9dd0e9bbfb012.png" width="100%" alt="A banner that say Genrofer - full stack developer... content creator and community organizer alongside a cartoon illustration of Genrofer">
+    <img src="https://64.media.tumblr.com/b4f60860e5df5992855fa02761e57e8c/63b25f5bdb52caf9-ee/s1280x1920/db4148a6f46a488e956efe5f28f32360217bf989.png" width="100%" alt="A banner that say Genrofer - full stack developer... content creator and community organizer alongside a cartoon illustration of Genrofer">
 </a>
       
 ---
