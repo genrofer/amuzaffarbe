@@ -1,4 +1,4 @@
-<h1 align="center">"Oh... something is comforting :( " says uzbek creative web developer a.k.a Genrofer!</h1>
+<h1 align="center">"Oh... something is comforting ( " says uzbek creative web developer Genrofer!</h1>
  
 <a href="https://genrofer.ga" target="_blank">
     <img src="https://64.media.tumblr.com/b4f60860e5df5992855fa02761e57e8c/63b25f5bdb52caf9-ee/s1280x1920/db4148a6f46a488e956efe5f28f32360217bf989.png" width="100%" alt="A banner that say Genrofer - full stack developer... content creator and community organizer alongside a cartoon illustration of Genrofer">
