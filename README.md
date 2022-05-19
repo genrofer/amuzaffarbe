@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://t.me/genrofer1](https://t.me/genrofer1)
 
-- 📫 How to reach me **amuzaffarbe@gmail.com**
+- 📫 How to reach me **genrofer@gmail.com**
 
 - 📄 Know about my experiences [www.genrofer.ga](https://genrofer.ga)
 
