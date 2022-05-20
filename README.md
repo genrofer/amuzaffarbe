@@ -38,8 +38,8 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://mongodb.com" target="_blank"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="express" width="40" height="40"/> </a> 
-<br>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/hu/122171/svg/Github-circle__CoreUI_Icons_v1.0.0_.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://android.com" target="_blank"> <img src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" alt="sass" width="40" height="40"/> </a>
