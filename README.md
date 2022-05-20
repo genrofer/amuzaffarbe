@@ -33,20 +33,20 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a> 
+<a href="https://postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="express" width="35" height="35"/> </a>
 <a href="https://mongodb.com" target="_blank"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="express" width="35" height="35"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/hu/122171/svg/Github-circle__CoreUI_Icons_v1.0.0_.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://android.com" target="_blank"> <img src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://microsoft.com" target="_blank"> <img src="https://iconape.com/wp-content/files/gl/353404/svg/353404.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="sass" width="40" height="40"/> </a>    
-<a href="https://brackets.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/hu/122171/svg/Github-circle__CoreUI_Icons_v1.0.0_.svg" alt="git" width="35" height="35"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/> </a> 
+<a href="https://android.com" target="_blank"> <img src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" alt="sass" width="35" height="35"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> 
+<a href="https://www.ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="linux" width="35" height="35"/> </a> 
+<a href="https://microsoft.com" target="_blank"> <img src="https://iconape.com/wp-content/files/gl/353404/svg/353404.svg" alt="sass" width="35" height="35"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="sass" width="35" height="35"/> </a>    
+<a href="https://brackets.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" alt="sass" width="35" height="35"/> </a>
 
 </p>
   
