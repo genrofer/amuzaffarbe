@@ -6,7 +6,7 @@
       
 ---
 
-- 👨‍💻 All of my projects are available at [https://t.me/genrofer1](https://t.me/genrofer1)
+- 👨‍💻 All of my projects are available at [https://genrofer.ga](Genrofer 💻)
 
 - 📫 How to reach me **genrofer@gmail.com**
 
