@@ -6,11 +6,11 @@
       
 ---
 
-- 👨‍💻 All of my projects are available at [https://genrofer.ga](Genrofer 💻)
+- 👨‍💻 All of my projects are available at [https://genrofer.cf](Genrofer 💻)
 
 - 📫 How to reach me **genrofer@gmail.com**
 
-- 📄 Know about my experiences [www.genrofer.ga](https://genrofer.ga)
+- 📄 Know about my experiences [www.genrofer.cf](https://genrofer.cf)
 
 ---
 
